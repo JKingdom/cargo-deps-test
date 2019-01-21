@@ -1,6 +1,6 @@
 
 pub fn fxck() {
-    println!("this is master")
+    println!("this is develop")
 }
 
 #[cfg(test)]
